@@ -150,3 +150,10 @@ I also don't know how to remove the background grey of the image */
   font-size: 20px;
   line-height: 30px;
 }
+
+.footer {
+}
+
+.iframe {
+  border: none;
+}
