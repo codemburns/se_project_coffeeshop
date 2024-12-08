@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Sprucing up certain graphics, resizing videos, and any line of code that takes away from the website's aesthetic property.
